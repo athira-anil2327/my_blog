@@ -1,6 +1,6 @@
 ---
 title: "എൻ്റെ ജന്മനാടിൻ്റെ പ്രതിധ്വനികൾ"
-author: "Harlow Malloc"
+author: "zaphire"
 date: "2024-08-06"
 categories: [news, code, analysis]
 image: "thrissur.jpg"
