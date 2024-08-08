@@ -2,11 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Anime_World.qmd/index.html",
       "/posts/ente_naad/index.html",
+      "/posts/rainy_mornings.qmd/index.html",
       "/posts/my_thoughts/index.html",
-      "/posts/New_thoughts/index.html",
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/New_thoughts/index.html"
     ]
   }
 ]
